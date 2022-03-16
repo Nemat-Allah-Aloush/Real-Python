@@ -9,4 +9,4 @@ Practicing Python tricks ;)
 ## Problems file
 This file contains solutions to simple problems.
 1. Problem 01: Finding the highest square under a given number.
-2. Problem 02: Checking whether an array elements are divisible by 3,5 or both
+2. Problem 02: Checking whether an array elements are divisible by 3,5 or both.
