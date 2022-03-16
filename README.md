@@ -4,6 +4,7 @@ Practicing Python tricks ;)
 1. [Tips](#tips_file)
 2. [Problems](#problems-file)
 ## Tips file
+This file contains some tips to write in a pythonic way ).
 1. Comparsion between mutable and imutable types in python.
 2. range() vs enumerate().
 ## Problems file
