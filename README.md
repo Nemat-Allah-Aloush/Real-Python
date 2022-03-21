@@ -3,7 +3,7 @@ Practicing Python tricks ;)
 ## Index
 1. [Tips](#tips_file)
 2. [Problems](#problems-file)
-3. [Basic Revesion] (#basic-revesion)
+3. [Basic Revesion](#basic-revesion)
 
 ## [Tips file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips.ipynb)
 This file contains some tips to write in a pythonic way ).
