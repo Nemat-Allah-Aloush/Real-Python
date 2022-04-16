@@ -6,7 +6,7 @@ Practicing Python tricks ;)
 3. [Basic Revesion](#basic-revesion)
 
 ## [Tips](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips)
-#### [Tips file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips.ipynb)
+### [Tips file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips.ipynb)
 This file contains some tips to write in a pythonic way ).
 1. Comparsion between mutable and imutable types in python.
 2. range() vs enumerate().
