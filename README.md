@@ -4,6 +4,7 @@ Practicing Python tricks ;)
 1. [Tips](#tips_file)
 2. [Problems](#problems-file)
 3. [Basic Revesion](#basic-revesion)
+4. [Resources](#resources)
 
 ## [Tips](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips)
 ### [Tips file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips.ipynb)
@@ -24,3 +25,9 @@ This file contains solutions to simple problems.
 
 ## [Basic Revesion](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Basic_Revesion.ipynb)
 Basics of Dictionary, list, tuple, set and string.
+
+## Resources
+Most of the ideas and examples are from: 
+- Python Coding Interviews: Tips & Best Practices course at the Real https://realpython.com/courses/python-coding-interviews-tips-best-practices/
+- Ace Python Interviews course at https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction
+- Other resources.
