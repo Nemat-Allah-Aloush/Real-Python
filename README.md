@@ -12,6 +12,7 @@ This file contains some tips to write in a pythonic way ).
 1. Comparsion between mutable and imutable types in python.
 2. range() vs enumerate().
 3. List Comprehensions and Built-In Functions on Lists.
+4. Using fstring for printing.
 
 ### [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Debugging.ipynb)
 This file contains 3 different ways to debug in Python.
