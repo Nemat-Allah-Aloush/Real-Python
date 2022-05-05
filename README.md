@@ -13,7 +13,8 @@ This file contains some tips to write in a pythonic way ).
 2. range() vs enumerate().
 3. List Comprehensions and Built-In Functions on Lists.
 4. Using fstring for printing.
-5. using sort() and sorted() to sort lists and dictionaries
+5. Using sort() and sorted() to sort lists and dictionaries
+6. Using \*args and \*\*kwargs to pass tuple, dictionary to a function.
 
 ### [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Debugging.ipynb)
 This file contains 3 different ways to debug in Python.
