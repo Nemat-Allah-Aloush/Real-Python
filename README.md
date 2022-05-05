@@ -32,5 +32,5 @@ Basics of Dictionary, list, tuple, set and string.
 ## Resources
 Most of the ideas and examples are from: 
 - Python Coding Interviews: Tips & Best Practices course at the Real, the free module [here](https://realpython.com/courses/python-coding-interviews-tips-best-practices/).
-- Ace Python Interviews course, [here](https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction
-- Other resources).
+- Ace Python Interviews course, [here](https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction)
+- Other resources.
