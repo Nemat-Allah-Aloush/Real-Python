@@ -15,7 +15,7 @@ This folder contains some tips to write in a pythonic way ).
 4. Using fstring for printing. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/4.%20fstring.ipynb)
 5. Using sort() and sorted() to sort lists and dictionaries. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/5.%20Sorting.ipynb)
 6. Using \*args and \*\*kwargs to pass tuple, dictionary to a function. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/6.%20args.kwargs.ipynb)
-7. The difference between lists and tuples. [Here] (https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/7.%20lists.tuples.ipynb)
+7. The difference between lists and tuples. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/7.%20lists.tuples.ipynb)
 8. [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/8.%20Debugging.ipynb) This file contains 3 different ways to debug in Python.
 
 
