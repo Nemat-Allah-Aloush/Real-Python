@@ -12,11 +12,11 @@ This folder contains some tips to write in a pythonic way ).
 1. Comparsion between mutable and imutable types in python. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/1.Immutable.mutable.ipynb)
 2. range() vs enumerate(). [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/2.%20range_enumerate.ipynb)
 3. List Comprehensions and Built-In Functions on Lists. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/3.%20List%20Comprehensions.ipynb)
-4. Using fstring for printing.[Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/4.%20fstring.ipynb)
-5. Using sort() and sorted() to sort lists and dictionaries [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/5.%20Sorting.ipynb)
+4. Using fstring for printing. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/4.%20fstring.ipynb)
+5. Using sort() and sorted() to sort lists and dictionaries. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/5.%20Sorting.ipynb)
 6. Using \*args and \*\*kwargs to pass tuple, dictionary to a function. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/6.%20args.kwargs.ipynb)
 7. The difference between lists and tuples. [Here] (https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/7.%20lists.tuples.ipynb)
-8. [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/8.%20Debugging.ipynb)
+8. [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/8.%20Debugging.ipynb) This file contains 3 different ways to debug in Python.
 
 
 ## [Problems file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems.ipynb)
