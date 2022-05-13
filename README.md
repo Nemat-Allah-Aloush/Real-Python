@@ -18,6 +18,7 @@ This folder contains some tips to write in a pythonic way ).
 7. The difference between lists and tuples. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/7.%20lists.tuples.ipynb)
 8. [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/8.%20Debugging.ipynb) This file contains 3 different ways to debug in Python.
 9. [PEP8](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/9.%20pep8.ipynb) This file explains the idea of PEPs and PEP8.
+10. [Locals & Globals](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/10.%20locals-globals.ipynb) This file shows the difference between locals and globals variables in Python.
 
 
 ## [Problems file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems.ipynb)
