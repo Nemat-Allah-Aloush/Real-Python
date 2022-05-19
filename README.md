@@ -19,6 +19,7 @@ This folder contains some tips to write in a pythonic way ).
 8. [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/8.%20Debugging.ipynb) This file contains 3 different ways to debug in Python.
 9. [PEP8](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/9.%20pep8.ipynb) This file explains the idea of PEPs and PEP8.
 10. [Locals & Globals](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/10.%20locals-globals.ipynb) This file shows the difference between locals and globals variables in Python.
+11. [Modules](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/11.%20Modules.ipynb): This simply file introduce the modules in python
 
 
 ## [Problems file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems.ipynb)
