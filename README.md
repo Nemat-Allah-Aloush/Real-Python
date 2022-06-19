@@ -20,7 +20,8 @@ This folder contains some tips to write in a pythonic way ).
 9. [PEP8](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/9.%20pep8.ipynb) This file explains the idea of PEPs and PEP8.
 10. [Locals & Globals](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/10.%20locals-globals.ipynb) This file shows the difference between locals and globals variables in Python.
 11. [Modules](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/11.%20Modules.ipynb): This file simply introduce the modules in python.
-12. [lists & arrays](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/12.lists.arrays.ipynb): Shows main differences among lists and arrays.
+12. [lists & arrays](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/12.%20lists.arrays.ipynb): Shows main differences among lists and arrays.
+13. [__init__ ()](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/13.%20init%20function.ipynb): A brief about __init__ function.
 
 
 ## [Problems file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems.ipynb)
