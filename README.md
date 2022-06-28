@@ -26,6 +26,7 @@ This folder contains some tips to write in a pythonic way ).
 15. [different qoutes in python](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/15.%20different%20qoutes.ipynb) this file introduce different types of qoutes in python.
 16. [docstring](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/16.%20docstring.ipynb): this file explains how to add docstring for functions and classes.
 17. [swaping variables](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/17.%20swaping%20variables.ipynb): this file explains how to swap variables in python.
+18. [PyPI](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/18.%20PyPI.ipynb): this file contains a small introductory to PyPI.
 
 ## [Problems file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems.ipynb)
 This file contains solutions to simple problems.
