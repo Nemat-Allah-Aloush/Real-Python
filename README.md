@@ -7,9 +7,9 @@ Practicing Python tricks ;)
 4. [Resources](#resources)
 
 ## [Tips](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips)
-
+https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/1.Immutable.mutable.ipynb
 This folder contains some tips to write in a pythonic way ).
-1. Comparsion between mutable and imutable types in python. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/1.Immutable.mutable.ipynb)
+1. Comparsion between mutable and imutable types in python. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level1/1.Immutable.mutable.ipynb)
 2. `range()` vs `enumerate()`. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/2.%20range_enumerate.ipynb)
 3. List Comprehensions and Built-In Functions on Lists. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/3.%20List%20Comprehensions.ipynb)
 4. Using `fstring` for printing. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/4.%20fstring.ipynb)
