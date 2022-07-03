@@ -9,25 +9,25 @@ Practicing Python tricks ;)
 ## [Tips](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips)
 
 This folder contains some tips to write in a pythonic way ).
-1. Comparsion between mutable and imutable types in python. [Here]([https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level1/1.Immutable.mutable.ipynb](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/1.Immutable.mutable.ipynb))
-2. `range()` vs `enumerate()`. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level1/2.%20range_enumerate.ipynb)
-3. List Comprehensions and Built-In Functions on Lists. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/3.%20List%20Comprehensions.ipynb)
-4. Using `fstring` for printing. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/4.%20fstring.ipynb)
-5. Using `sort()` and `sorted()` to sort lists and dictionaries. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/5.%20Sorting.ipynb)
-6. Using `*args` and `**kwargs` to pass tuple, dictionary to a function. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/6.%20args.kwargs.ipynb)
-7. The difference between lists and tuples. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/7.%20lists.tuples.ipynb)
-8. [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/8.%20Debugging.ipynb) This file contains 3 different ways to debug in Python.
-9. [PEP8](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/9.%20pep8.ipynb) This file explains the idea of PEPs and PEP8.
-10. [Locals & Globals](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/10.%20locals-globals.ipynb) This file shows the difference between locals and globals variables in Python.
-11. [Modules](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/11.%20Modules.ipynb): This file simply introduce the modules in python.
-12. [lists & arrays](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/12.%20lists.arrays.ipynb): Shows main differences among lists and arrays.
-13. [`__init__ ()`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/13.%20init%20function.ipynb): A brief about `__init__` function.
-14. [`.py` vs `.pyc`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/14.%20py.pyc.ipynb)
-15. [different qoutes in python](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/15.%20different%20qoutes.ipynb) this file introduce different types of qoutes in python.
-16. [docstring](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/16.%20docstring.ipynb): this file explains how to add docstring for functions and classes.
-17. [swaping variables](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/17.%20swaping%20variables.ipynb): this file explains how to swap variables in python.
-18. [PyPI](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/18.%20PyPI.ipynb): this file contains a small introductory to PyPI.
-19. [Data Structure](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/19.%20Data%20Structure.ipynb): A small brief about data structures in Python.
+1. Comparsion between mutable and imutable types in python. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/1.Immutable.mutable.ipynb)
+2. `range()` vs `enumerate()`. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/2.%20range_enumerate.ipynb)
+3. List Comprehensions and Built-In Functions on Lists. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/3.%20List%20Comprehensions.ipynb)
+4. Using `fstring` for printing. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/4.%20fstring.ipynb)
+5. Using `sort()` and `sorted()` to sort lists and dictionaries. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/5.%20Sorting.ipynb)
+6. Using `*args` and `**kwargs` to pass tuple, dictionary to a function. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/6.%20args.kwargs.ipynb)
+7. The difference between lists and tuples. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/7.%20lists.tuples.ipynb)
+8. [Debugging](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/8.%20Debugging.ipynb) This file contains 3 different ways to debug in Python.
+9. [PEP8](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/9.%20pep8.ipynb) This file explains the idea of PEPs and PEP8.
+10. [Locals & Globals](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/10.%20locals-globals.ipynb) This file shows the difference between locals and globals variables in Python.
+11. [Modules](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/11.%20Modules.ipynb): This file simply introduce the modules in python.
+12. [lists & arrays](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/12.%20lists.arrays.ipynb): Shows main differences among lists and arrays.
+13. [`__init__ ()`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/13.%20init%20function.ipynb): A brief about `__init__` function.
+14. [`.py` vs `.pyc`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/14.%20py.pyc.ipynb)
+15. [different qoutes in python](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/15.%20different%20qoutes.ipynb) this file introduce different types of qoutes in python.
+16. [docstring](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/16.%20docstring.ipynb): this file explains how to add docstring for functions and classes.
+17. [swaping variables](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/17.%20swaping%20variables.ipynb): this file explains how to swap variables in python.
+18. [PyPI](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/18.%20PyPI.ipynb): this file contains a small introductory to PyPI.
+19. [Data Structure](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/19.%20Data%20Structure.ipynb): A small brief about data structures in Python.
 
 ## [Problems file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems.ipynb)
 This file contains solutions to simple problems.
