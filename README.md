@@ -30,8 +30,10 @@ This folder contains some tips to write in a pythonic way ).
 17. [swaping variables](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/17.%20swaping%20variables.ipynb): this file explains how to swap variables in python.
 18. [PyPI](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/18.%20PyPI.ipynb): this file contains a small introductory to PyPI.
 19. [Data Structure](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/19.%20Data%20Structure.ipynb): A small brief about data structures in Python.
+20. [Dictionaries](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/20.%20Dictionaries..ipynb): There are different ways of iterating over dictionaries and the way of adding into dictionaries.
+21. [Unbound Local Error](): There is a small explination about unbound local errors.
 
-## Problems file
+## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)_
 * [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
 This file contains solutions to simple problems.
 1. Problem 01: Finding the highest square under a given number.
