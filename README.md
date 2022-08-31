@@ -10,7 +10,7 @@ Practicing Python tricks ;)
 
 This folder contains some tips to write in a pythonic way ).
 
-* level 1
+* Level 1
 1. Comparsion between mutable and imutable types in python. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/1.Immutable.mutable.ipynb)
 2. `range()` vs `enumerate()`. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/2.%20range_enumerate.ipynb)
 3. List Comprehensions and Built-In Functions on Lists. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/3.%20List%20Comprehensions.ipynb)
@@ -31,7 +31,7 @@ This folder contains some tips to write in a pythonic way ).
 18. [PyPI](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/18.%20PyPI.ipynb): this file contains a small introductory to PyPI.
 19. [Data Structure](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/19.%20Data%20Structure.ipynb): A small brief about data structures in Python.
 20. [Dictionaries](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/20.%20Dictionaries..ipynb): There are different ways of iterating over dictionaries and the way of adding into dictionaries.
-21. [Unbound Local Error](): There is a small explination about unbound local errors.
+21. [Unbound Local Error](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/21.%20UnboundLocalError.ipynb): There is a small explination about unbound local errors.
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)_
 * [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
