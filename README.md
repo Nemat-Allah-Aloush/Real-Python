@@ -9,6 +9,8 @@ Practicing Python tricks ;)
 ## [Tips](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips)
 
 This folder contains some tips to write in a pythonic way ).
+
+* level 1
 1. Comparsion between mutable and imutable types in python. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/1.Immutable.mutable.ipynb)
 2. `range()` vs `enumerate()`. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/2.%20range_enumerate.ipynb)
 3. List Comprehensions and Built-In Functions on Lists. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/3.%20List%20Comprehensions.ipynb)
@@ -29,7 +31,8 @@ This folder contains some tips to write in a pythonic way ).
 18. [PyPI](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/18.%20PyPI.ipynb): this file contains a small introductory to PyPI.
 19. [Data Structure](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/19.%20Data%20Structure.ipynb): A small brief about data structures in Python.
 
-## [Problems file](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems.ipynb)
+## Problems file
+* [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
 This file contains solutions to simple problems.
 1. Problem 01: Finding the highest square under a given number.
 2. Problem 02: Checking whether an array elements are divisible by 3,5 or both.
