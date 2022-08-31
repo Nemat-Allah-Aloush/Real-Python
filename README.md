@@ -40,6 +40,7 @@ This file contains solutions to simple problems.
 2. Problem 02: Checking whether an array elements are divisible by 3,5 or both.
 3. Problem 03: Creating a grid dynamically.
 4. Problem 04: check if any value of a list is odd.
+5. Problem 05: Count Vowels in a file, given a filename.
 
 ## [Basic Revesion](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Basic_Revesion.ipynb)
 Basics of Dictionary, list, tuple, set and string.
