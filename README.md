@@ -33,6 +33,9 @@ This folder contains some tips to write in a pythonic way ).
 20. [Dictionaries](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/20.%20Dictionaries..ipynb): There are different ways of iterating over dictionaries and the way of adding into dictionaries.
 21. [Unbound Local Error](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/21.%20UnboundLocalError.ipynb): There is a small explination about unbound local errors.
 
+* Level 2
+1. [Generators](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Generators.ipynb): An introduction to generators with small example.
+
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)_
 * [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
 This file contains solutions to simple problems.
