@@ -34,7 +34,7 @@ This folder contains some tips to write in a pythonic way ).
 21. [Unbound Local Error](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/21.%20UnboundLocalError.ipynb): There is a small explination about unbound local errors.
 
 * Level 2
-1. [Generators](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Generators.ipynb): An introduction to generators with small example.
+1. [Generators](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Generators.ipynb): An introduction to generators with two examples: Writing a generator that returns n line from a function, and writing a Fibonacci generator.
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)_
 * [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
