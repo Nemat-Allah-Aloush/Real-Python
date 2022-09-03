@@ -44,7 +44,7 @@ This folder contains some tips to write in a pythonic way ).
 8. [Context manager in Python](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/context_managers.ipynb): An explination about context managers in Python and about the clause `with`.
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)
-### [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
+### [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb)
 This file contains solutions to simple problems.
 1. Problem 01: Finding the highest square under a given number.
 2. Problem 02: Checking whether an array elements are divisible by 3,5 or both.
