@@ -36,7 +36,7 @@ This folder contains some tips to write in a pythonic way ).
 * Level 2
 1. [Generators](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Generators.ipynb): An introduction to generators with two examples: Writing a generator that returns n line from a function, and writing a Fibonacci generator.
 
-2.[Parameter Self in a class](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/self.ipynb): A small explination about the importance of 'self' parameter and how to use it.
+2. [Parameter Self in a class](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/self.ipynb): A small explination about the importance of `self` parameter and how to use it.
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)_
 * [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
