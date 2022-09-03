@@ -39,6 +39,9 @@ This folder contains some tips to write in a pythonic way ).
 3. [Defaults](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Defaults.ipynb): Explaining the defaults of a function.
 4. [Class vs abstract methods](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/class_static_methods.ipynb): An wxplination about the difference between the two types of methods (`abstractmethod`, `classmethod`) inside a class.
 5. [Getting a list of functions inside a module](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/functions_in_modules.ipynb).
+6. []Memory managment in Python(https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/memory_management.ipynb): How is memory managment done in Python?
+7. [else statement in Python loops](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/else.ipynb).
+8. [Context manager in Python](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/context_managers.ipynb): An explination about context managers in Python and about the clause `with`.
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)
 * [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
