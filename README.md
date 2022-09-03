@@ -46,6 +46,9 @@ This file contains solutions to simple problems.
 4. Problem 04: check if any value of a list is odd.
 5. Problem 05: Count Vowels in a file, given a filename.
 
+* Level 2
+1. (Sorting using Lambda)[https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-2/Sorting%20with%20lambda.ipynb]: The problem is to sort the words of a sentence alphabetically, according to the last letter of each word, using `lambda`
+ 
 ## [Basic Revesion](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Basic_Revesion.ipynb)
 Basics of Dictionary, list, tuple, set and string.
 
