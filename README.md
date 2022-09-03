@@ -37,7 +37,7 @@ This folder contains some tips to write in a pythonic way ).
 1. [Generators](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Generators.ipynb): An introduction to generators with two examples: Writing a generator that returns n line from a function, and writing a Fibonacci generator.
 2. [Parameter Self in a class](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/self.ipynb): A small explination about the importance of `self` parameter and how to use it.
 3. [Defaults](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Defaults.ipynb): Explaining the defaults of a function.
-4. [Class vs abstract methods](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/class_static_methods.ipynb): An wxplination about the difference between the two types of methods (abstract, class) inside a class.
+4. [Class vs abstract methods](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/class_static_methods.ipynb): An wxplination about the difference between the two types of methods (`abstractmethod`, `classmethod`) inside a class.
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)
 * [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb):
