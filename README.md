@@ -8,7 +8,7 @@ Practicing Python tricks ;)
 
 ## [Tips](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips)
 
-This folder contains some tips to write in a pythonic way ).
+This repository contains some tips to code in a Python ^.^
 
 ### [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips/Level-1)
 1. Comparsion between mutable and imutable types in python. [Here](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/1.Immutable.mutable.ipynb)
