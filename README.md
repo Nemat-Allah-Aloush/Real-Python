@@ -43,6 +43,7 @@ This folder contains some tips to write in a pythonic way ).
 7. [else statement in Python loops](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/else.ipynb).
 8. [Context manager in Python](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/context_managers.ipynb): An explination about context managers in Python and about the clause `with`.
 9. [Passing Arguments in Python functions](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/reference_value.ipynb): Are arguments in Python passed by value, by reference, or by sth else?
+9. [Passing Arguments in Python functions](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/closuree.ipynb): What is closure in Python and where to use it?
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)
 ### [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb)
