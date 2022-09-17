@@ -46,6 +46,7 @@ This repository contains some tips to code in a Python ^.^
 10. [Closures](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/closure.ipynb): What is closure in Python and where to use it?
 11. [Iterator Protocol](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/iterator.ipynb): What is Iterator Protocol in Python and where to use it?
 12. [str vs byte](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/str.bytes.ipynb): How are strings represented in Python, bytes or characters?
+13. [str vs byte](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/operator overloading.ipynb): How to overload operators in Python?
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)
 ### [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb)
