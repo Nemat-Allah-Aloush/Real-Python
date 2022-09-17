@@ -50,6 +50,7 @@ This repository contains some tips to code in a Python ^.^
 
 ### [Level 3](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips/Level-3)
 1. [Class Attributes](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-3/class_attributes.ipynb): What are the differencies and the similarities between Python class attributes and static variables in other languages?
+2. [`is` vs `==`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-3/comparing.ipynb): What are the differencies between `is` and `==`?
 
 
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)
