@@ -48,6 +48,10 @@ This repository contains some tips to code in a Python ^.^
 12. [str vs byte](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/str.bytes.ipynb): How are strings represented in Python, bytes or characters?
 13. [str vs byte](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/operator%20overloading.ipynb): How to overload operators in Python?
 
+### [Level 3](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips/Level-3)
+1. [Class Attributes](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-3/class_attributes.ipynb): What are the differencies and the similarities between Python class attributes and static variables in other languages?
+
+
 ## [Problems](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems)
 ### [Level 1](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Problems-level-1.ipynb)
 This file contains solutions to simple problems.
