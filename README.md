@@ -34,7 +34,7 @@ This repository contains some tips to code in a Python ^.^
 21. [Unbound Local Error](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-1/21.%20UnboundLocalError.ipynb): There is a small explination about unbound local errors.
 
 ### [Level 2](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Tips/Level-2)
-1. [Generators](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Generators.ipynb): An introduction to generators with two examples: Writing a generator that returns n line from a function, and writing a Fibonacci generator.
+1. [Generators](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Generators.ipynb): An introduction to generators with two examples: Writing a generator that returns n line from a file, and writing a Fibonacci generator.
 2. [Parameter Self in a class](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/self.ipynb): A small explination about the importance of `self` parameter and how to use it.
 3. [Defaults](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/Defaults.ipynb): Explaining the defaults of a function.
 4. [Class vs abstract methods](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Tips/Level-2/class_static_methods.ipynb): An wxplination about the difference between the two types of methods (`abstractmethod`, `classmethod`) inside a class.
