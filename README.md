@@ -60,7 +60,12 @@ This file contains solutions to simple problems.
 ### [Level 2](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems/Level-2)
 1. [Sorting using Lambda](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-2/Sorting%20with%20lambda.ipynb): The problem is to sort the words of a sentence alphabetically, according to the last letter of each word, using `lambda`.
 2. [Whitspace seperated numbers](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-2/whitespace_seperated_numbers.ipynb): The problem is to sort numberes entered by the user as strings.
+3. [Checking if string is a palindrome](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-2/palindrome.ipynb): The problem is to chick whether a string is a palindrome.
  
+ ### [Level 3](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems/Level-3)
+1. [Calculating MSE](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/MSE.ipynb): The problem is to calculate the mean square error between two lists without using `numpy`.
+
+
 ## [Basic Revesion](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Basic_Revesion.ipynb)
 Basics of Dictionary, list, tuple, set and string.
 
