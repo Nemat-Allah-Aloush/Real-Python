@@ -70,7 +70,7 @@ This file contains solutions to simple problems.
  ### [Level 3](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems/Level-3)
 1. [Calculating MSE](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/MSE.ipynb): The problem is to calculate the mean square error between two lists without using `numpy`.
 2. [Recursive directory listing](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/Recursive_directory_listing.ipynb): The problem is to get the names of subdirectories and files inside a specific directory.
-3. [String only arguments](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/string_only_arguments.ipynb): The problem is to write a decorator that checks that all the arguments of a function are string.
+3. [`itertools.chain`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/mychain.ipynb): The problem is to implement a generator function thaat works as `itertools.chain`.
 
 
 ## [Basic Revesion](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Basic_Revesion.ipynb)
