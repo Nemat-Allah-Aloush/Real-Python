@@ -74,7 +74,7 @@ This file contains solutions to simple problems.
 4. [Reimplementing `range`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/range.ipynb): The problem is to reimplement the built-in function `range`.
 5. [fullname property](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/fullname_property.ipynb): The problem is to define a `Person` class with a "full_name" property.
  Setting it automatically sets the "first_name" and "last_name" attributes.
-
+6. [Descriptor](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/speed_descriptor.ipynb): The problem is to define a define a descriptor whose value cannot be lower than 0 or greater than 100. If the user attempts to set it to either value, it raises an exception.
 
 ## [Basic Revesion](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Basic_Revesion.ipynb)
 Basics of Dictionary, list, tuple, set and string.
