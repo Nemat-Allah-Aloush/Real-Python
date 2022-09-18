@@ -70,7 +70,10 @@ This file contains solutions to simple problems.
  ### [Level 3](https://github.com/Nemat-Allah-Aloush/Real-Python/tree/master/Problems/Level-3)
 1. [Calculating MSE](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/MSE.ipynb): The problem is to calculate the mean square error between two lists without using `numpy`.
 2. [Recursive directory listing](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/Recursive_directory_listing.ipynb): The problem is to get the names of subdirectories and files inside a specific directory.
-2. [Reimplementing `range`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/range.ipynb): The problem is to reimplementing the built-in function `range`.
+3. [String_only_arguments](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/string_only_arguments.ipynb): The problem is to write a decorator that checks whether all the arguments for a function are strings
+4. [Reimplementing `range`](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/range.ipynb): The problem is to reimplement the built-in function `range`.
+5. [fullname property](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Problems/Level-3/fullname_property.ipynb): The problem is to define a `Person` class with a "full_name" property.
+ Setting it automatically sets the "first_name" and "last_name" attributes.
 
 
 ## [Basic Revesion](https://github.com/Nemat-Allah-Aloush/Real-Python/blob/master/Basic_Revesion.ipynb)
